@@ -1,4 +1,4 @@
-import { convertUuidToPdaSeed } from "@formfunction-hq/formfunction-program-shared";
+import { convertUuidToPdaSeed } from "@boom-army/boom-program-tools";
 import {
   ASSOCIATED_TOKEN_PROGRAM_ID,
   TOKEN_PROGRAM_ID,

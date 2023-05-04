@@ -4,7 +4,7 @@
 import {
   DecodedInstructionAccount,
   GenericDecodedTransaction,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 import { IDL as CAMPAIGN_TREASURY_MANAGER_IDL } from "sdk/idl/CampaignTreasuryManager";
 import CampaignTreasuryManagerInstructionName from "sdk/types/CampaignTreasuryManagerInstructionName";
 

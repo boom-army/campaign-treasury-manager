@@ -8,7 +8,7 @@ import {
   requestAirdrops,
   solToLamports,
   sumArray,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 import { NATIVE_MINT } from "@solana/spl-token";
 import createCampaignEscrowForTest from "tests/utils/createCampaignEscrowForTest";
 import createDepositForTest from "tests/utils/createDepositForTest";

@@ -1,4 +1,4 @@
-import { Maybe } from "@formfunction-hq/formfunction-program-shared";
+import { Maybe } from "@boom-army/boom-program-tools";
 import { CAMPAIGN_TREASURY_MANAGER_IDL } from "sdk/idl";
 
 export default function getErrorMessageFromCampaignTreasuryManagerIdl(

@@ -1,7 +1,7 @@
 import {
   assertUnreachable,
   Environment,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 
 export default function getRpcFromEnvironmentForTest(
   environment: Environment

@@ -1,7 +1,7 @@
 import {
   GenericNumber,
   genericNumberToNumber,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 import BN from "bn.js";
 
 export default function getSecondsAfterCampaignEndTime(

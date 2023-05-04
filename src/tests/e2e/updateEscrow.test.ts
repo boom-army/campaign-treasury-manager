@@ -1,7 +1,7 @@
 import {
   createSplToken,
   expectPublicKeysEqual,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 import { NATIVE_MINT } from "@solana/spl-token";
 import UpdateCampaignEscrowInput from "sdk/types/UpdateCampaignEscrowInput";
 import createCampaignEscrowForTest from "tests/utils/createCampaignEscrowForTest";

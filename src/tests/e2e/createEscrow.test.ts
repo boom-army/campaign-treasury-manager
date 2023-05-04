@@ -1,4 +1,4 @@
-import { createSplToken } from "@formfunction-hq/formfunction-program-shared";
+import { createSplToken } from "@boom-army/boom-program-tools";
 import { NATIVE_MINT } from "@solana/spl-token";
 import createCampaignEscrowForTest from "tests/utils/createCampaignEscrowForTest";
 import expectTransactionToFailWithErrorCode from "tests/utils/expectTransactionToFailWithErrorCode";

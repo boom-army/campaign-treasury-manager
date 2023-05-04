@@ -1,4 +1,4 @@
-import { Environment } from "@formfunction-hq/formfunction-program-shared";
+import { Environment } from "@boom-army/boom-program-tools";
 import parseEnvironmentArg from "scripts/utils/parseEnvironmentArg";
 import yargs from "yargs";
 

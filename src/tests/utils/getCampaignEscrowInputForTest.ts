@@ -1,7 +1,7 @@
 import {
   createSplToken,
   range,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 import { NATIVE_MINT } from "@solana/spl-token";
 import { Connection, Keypair, PublicKey } from "@solana/web3.js";
 import CreateCampaignEscrowInput from "sdk/types/CreateCampaignEscrowInput";

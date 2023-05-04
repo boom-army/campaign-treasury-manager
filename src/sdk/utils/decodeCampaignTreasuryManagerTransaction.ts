@@ -1,7 +1,7 @@
 import {
   decodeTransactionUsingProgramIdl,
   Maybe,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 import { ParsedTransactionWithMeta, PublicKey } from "@solana/web3.js";
 import { CAMPAIGN_TREASURY_MANAGER_IDL } from "sdk/idl";
 import DecodedCampaignTreasuryManagerTransactionResult from "sdk/types/DecodedCampaignTreasuryManagerTransactionResult";

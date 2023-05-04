@@ -2,7 +2,7 @@ import {
   arePublicKeysEqual,
   findAtaPda,
   isMintNative,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 import { TOKEN_PROGRAM_ID } from "@solana/spl-token";
 import {
   PublicKey,

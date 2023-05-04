@@ -1,7 +1,7 @@
 import {
   assertUnreachable,
   Environment,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 import {
   CampaignTreasuryManagerProgramIds,
   DEVNET_PROGRAM_IDS,

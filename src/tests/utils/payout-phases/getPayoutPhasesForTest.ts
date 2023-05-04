@@ -1,4 +1,4 @@
-import { percentToBasisPoints } from "@formfunction-hq/formfunction-program-shared";
+import { percentToBasisPoints } from "@boom-army/boom-program-tools";
 import BN from "bn.js";
 import PayoutPhasesTestInput from "tests/types/PayoutPhasesTestInput";
 import getSecondsAheadUnixTime from "tests/utils/getSecondsAheadUnixTime";

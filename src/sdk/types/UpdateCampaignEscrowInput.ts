@@ -1,4 +1,4 @@
-import { Maybe } from "@formfunction-hq/formfunction-program-shared";
+import { Maybe } from "@boom-army/boom-program-tools";
 import { PublicKey } from "@solana/web3.js";
 import BN from "bn.js";
 import NonVotingPayoutPhaseInput from "sdk/types/NonVotingPayoutPhaseInput";
